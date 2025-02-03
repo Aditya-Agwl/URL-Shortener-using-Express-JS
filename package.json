@@ -1,0 +1,16 @@
+{
+  "name": "urlshortenerxpress",
+  "version": "1.0.0",
+  "description": "urlshortenerusing express",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "start": "node app.js"
+  },
+  "author": "aditya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
